@@ -4,3 +4,7 @@ This repository provides a PyTorch implementation of the paper "ONLINE MOUSE BEH
 ## Requirements
 * python 3.9.7
 * pytorch 1.10.2
+* Torchvision 0.11.3
+## Data
+* The processed mouse optic flow features and RGB features should be placed under data/PDMB. As the PDMB dataset is private, we cannot share it.
+* Typical instances can be extracted by running 'scripts/generate-KF.py'.
