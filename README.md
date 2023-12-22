@@ -1,1 +1,2 @@
-This repository is established for the paper "ONLINE MOUSE BEHAVIOR DETECTION BY HISTORICAL DEPENDENCY AND TYPICAL INSTANCES" which has been submitted to ICASSP 2024. Once the paper is accepted, the relevant code will be avaliable in this repository.
+# ONLINE MOUSE BEHAVIOR DETECTION BY HISTORICAL DEPENDENCY AND TYPICAL INSTANCES
+This repository provides a PyTorch implementation of the paper "ONLINE MOUSE BEHAVIOR DETECTION BY HISTORICAL DEPENDENCY AND TYPICAL INSTANCES".
