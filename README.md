@@ -8,3 +8,10 @@ This repository provides a PyTorch implementation of the paper "ONLINE MOUSE BEH
 ## Data
 * The processed mouse optic flow features and RGB features should be placed under data/PDMB. As the PDMB dataset is private, we cannot share it.
 * Typical instances can be extracted by running 'scripts/generate-KF.py'.
+## Training
+* Train the model
+<pre><code> python main.py
+## Ethical Proof
+All experimental procedures were performed in accordance with the Guidance on the Operation of the Animals (Scientific Procedures) Act, 1986 (UK) and approved by the Queen’s University Belfast Animal.
+## Contact
+For any discussions, feel free to contact: xy179@leicester.ac.uk
