@@ -11,7 +11,7 @@ This repository provides a PyTorch implementation of the paper "ONLINE MOUSE BEH
 ## Training
 * Train the model
 ```
-<p> python main.py</p>
+python main.py
 ```
 ## Ethical Proof
 All experimental procedures were performed in accordance with the Guidance on the Operation of the Animals (Scientific Procedures) Act, 1986 (UK) and approved by the Queen’s University Belfast Animal.
